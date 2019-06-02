@@ -1,6 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿/*
+* PROJECT: HergBot Utilities
+* PROGRAMMER: Justin
+* FIRST VERSION: 2019-06-02
+*/
+
+using System;
 
 namespace HergBotUtilities.DateTimeUtilities
 {

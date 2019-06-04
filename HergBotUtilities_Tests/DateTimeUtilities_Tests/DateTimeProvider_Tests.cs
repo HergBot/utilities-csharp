@@ -12,7 +12,7 @@ using HergBotUtilities.DateTimeUtilities;
 
 namespace HergBotUtilities_Tests.DateTimeUtilities_Tests
 {
-    class DateTimeProvider_Tests
+    public class DateTimeProvider_Tests
     {
         private IDateTimeProvider localProvider;
 

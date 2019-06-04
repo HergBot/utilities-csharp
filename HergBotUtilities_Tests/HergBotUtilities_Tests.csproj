@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DateTimeUtilities_Tests\DateTimeProvider_Tests.cs" />
+    <Compile Include="EnvironmentUtilities_Tests\OperatingSystemUtilities_Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

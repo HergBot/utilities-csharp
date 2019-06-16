@@ -6,7 +6,7 @@
 
 using System;
 
-namespace HergBotUtilities.DateTimeUtilities
+namespace HergBot.Utilities.DateTimeUtilities
 {
     public class UtcDateTimeProvider : IDateTimeProvider
     {

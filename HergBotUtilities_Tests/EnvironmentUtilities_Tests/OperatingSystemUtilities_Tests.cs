@@ -6,7 +6,7 @@
 
 using NUnit.Framework;
 
-using HergBotUtilities.EnvironmentUtilities;
+using HergBot.Utilities.EnvironmentUtilities;
 
 namespace HergBotUtilities_Tests.EnvironmentUtilities_Tests
 {

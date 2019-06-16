@@ -8,7 +8,7 @@ using System;
 
 using NUnit.Framework;
 
-using HergBotUtilities.DateTimeUtilities;
+using HergBot.Utilities.DateTimeUtilities;
 
 namespace HergBotUtilities_Tests.DateTimeUtilities_Tests
 {

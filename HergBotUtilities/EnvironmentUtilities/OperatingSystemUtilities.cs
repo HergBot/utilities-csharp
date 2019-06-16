@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace HergBotUtilities.EnvironmentUtilities
+namespace HergBot.Utilities.EnvironmentUtilities
 {
     public class OperatingSystemUtilities
     {

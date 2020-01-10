@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Justin</Authors>
+    <Company>HergBot</Company>
+    <Description>A library of common utilities that can be used across a wide range of C# projects.</Description>
+    <RepositoryUrl>https://github.com/HergBot/utilities-csharp</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
   </PropertyGroup>
 
 </Project>

@@ -7,6 +7,9 @@
     <Description>A library of common utilities that can be used across a wide range of C# projects.</Description>
     <RepositoryUrl>https://github.com/HergBot/utilities-csharp</RepositoryUrl>
     <RepositoryType>GitHub</RepositoryType>
+    <PackageId>HergBot.Utilities</PackageId>
+    <Product>HergBot.Utilities</Product>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
 </Project>
